@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+*.xlsx
+.idea/
+__pycache__/
+.DS_Store
+*.pyc
+figure/
+doc/
+model/
+search.py
+src/test.ipynb
+*.zip
+*.gz
+*.csv
+*.txt
+*.pkl
